@@ -85,6 +85,7 @@ class FirstFragment : Fragment() {
         fun newInstance() = FirstFragment()
 
         private const val BRANCH = "branch"
+        private const val BRANCHSECOND = "branch"
 
     }
 
