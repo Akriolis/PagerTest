@@ -84,8 +84,11 @@ class FirstFragment : Fragment() {
         private const val NOTIFICATION = "Notify the user when button is pressed"
         fun newInstance() = FirstFragment()
 
+        private const val BRANCH = "branch"
+
     }
 
     //change for commit
+    //branch2
 
 }
